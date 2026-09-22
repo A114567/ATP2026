@@ -5,7 +5,7 @@
 - **Nome:** Margarida Ribeiro Cunha
 - **ID:** A114567
 - **Foto:**
-<br> <img scr="margarida.jpeg" width="15%"/>
+<br> <img src="margarida.jpeg" width="15%"/>
 
 - **Resumo:** O trabalho de casa desta semana consistia em concluir com sucesso o nível 10 do jogo Maze e, em seguida, recriar no jogo turtle uma ilustração de um barco a navegar no mar sob um céu com nuvens e o sol.
 
