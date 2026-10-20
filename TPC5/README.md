@@ -26,6 +26,7 @@ No fim de ser executada a operação selecionada, deve ser apresentado novamente
 Por fim, foi-nos indicado que utilizassemos a aplicação para criar uma turma com 5 alunos como exemplo.
 
 Lista de Resultados
+
 [Código](tpc5.py)
 
 
