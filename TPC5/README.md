@@ -27,5 +27,7 @@ Por fim, foi-nos indicado que utilizassemos a aplicação para criar uma turma c
 
 Lista de Resultados
 [Código](tpc5.py)
+
+
 [Exemplo](Turma.txt)
 
